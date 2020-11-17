@@ -1,0 +1,72 @@
+{ 
+    "pluginsFile": false,
+    "supportFile": false,
+    "fixturesFolder": false,
+    "chromeWebSecurity": false,
+    "env":{
+        "fin-open":"http://swf-svi-dkr-sispag4.dev.int.master.lan:8087",
+        "fin-cdp":"http://swf-svi-dkr-sispag4.dev.int.master.lan:8094",
+        "keycloak":"http://swf-svi-dkr-sispag4.dev.int.master.lan:18081",
+        "locale": "it",
+        "extralocale": "en",
+        "message":
+        {
+            "it": {
+                "admin" : "Amministrazione",
+                "ruoli" : "Gestione Ruoli"
+            },
+            "en":{
+                "admin" : "Administration",
+                "roles" : "Roles",
+                "monitor" : "Monitor",
+                "dashboard" : "Dashboard",
+                "transfers" : "Search transfers",
+                "messages" : "Suspended Messages",
+                "panel" : "Operating Panel",
+                "report" : "Report",
+                "data" : "Data Entry",
+                "msg_creation" : "Message creation",
+                "msg_tmp_management" : "Message template management",
+                "config" : "Configurations",
+                "config_list" : "Configurations list",
+                "res_list" : "Resources list",
+                "active_config" : "Edit active configuration",
+                "sag" : "Sag driver",
+                "event_subscription" : "Fileact Event Subscription",
+                "channels_console" : "Channels Console",
+                "suspended_transf" : "SAG suspended transfers",
+                "rma" : "RMA",
+                "authorisations" : "Authorisations",
+                "pending" : "Pendings",
+                "queries" : "Queries",
+                "query_search" : "Query Search",
+                "utilities" : "Utilities\t",
+                "ASP" : "ASP",
+                "config_search" : "Configuration Search",
+                "err_search" : "Error Search",
+                "imp_authorisations" : "Import Authorisations",
+                "exp_authorisations" : "Export Authorisations",
+                "fin_driver" : "Fin Driver",
+                "logic_terminals" : "Logical Terminals",
+                "sys_config" : "System Configuration",
+                "calendar" : "Calendar",
+                "dig_config": "Digest Configuration",
+                "FIN_copy" : "FIN Copy Service",
+                "BIC_copy" : "BIC Copy Service",
+                "SAG_reg" : "SAG Registry",
+                "tools" : "Tools",
+                "mq_dumper" : "MQ Dumper",
+                "users" : "Users",
+                "user_audit" : "User Audit",
+                "participants" : "Participants",
+                "org_manag" : "Organizations Management",
+                "context_manag" : "Context Management",
+                "bic" : "Bic",
+                "web_report" : "Web Report",
+                "security_report" : "Security report",
+                "preferences" : "Preferences"
+            }
+        }
+    }
+    
+}
